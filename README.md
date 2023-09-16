@@ -1,14 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jessy
-=============================================================================================================================
+<h1>Hi <img src ="https://user-images.githubusercontent.com/79151294/164762206-b90b4e56-58ac-4d89-baf2-f9132ccabcdb.gif" width="30" height:"30">, I am Jessy!</h1>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdqODhud3F1dnVxYzJ5ejcwcjVycnR1M3F6OGlsdjF6aDF1Y3lrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8gwSEEwD57JRhGZAx/giphy-downsized-large.gif" width="auto" height="300px"/>
+> Step into my haven. 👨🏾‍💻🏡🌟
+
+
+## The Haven's Owner
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdqODhud3F1dnVxYzJ5ejcwcjVycnR1M3F6OGlsdjF6aDF1Y3lrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8gwSEEwD57JRhGZAx/giphy-downsized-large.gif" width="auto" height="280px"/>
 
 * 🌍  I'm based in Ghana🇬🇭
 * 🗣️  I am a polyglot (🇫🇷/🇬🇧/🇪🇸)
 * ✉️  You can contact me at [bakijessy@gmail.com](mailto:bakijessy@gmail.com)
-* 🤝  I'm open to collaborating on <b>any projects</b>.
+* 🤝  I’m looking to collaborate on **Open Source Projects**
 * 🧠  I'm learning as much as I can.
-* ⚡  I tickle ivories 🎹
+* ⚡  Lest I forget to add that:
+  * I tickle ivories🎹
+  * I love to watch anime and read manga🎌🏯
+  * I am an art🎨, culture🌍🎭 and philosophy🤔📚 enthusiast
 <!--
 * 🖥️  See my portfolio at [......](http://.....)
 * 🚀  I'm currently working on [...](http://........)
@@ -16,15 +23,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -->
 
 <br/>
-<br/>
 <a href="https://www.github.com/blackdreamer15" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/github/followers/blackdreamer15?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" />
 </a>
 
-## Skills
+
+
+
+<h2> Languages and Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <!--
-
 <p align="left">
           <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />  </a>      
           <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />  </a>
@@ -68,7 +76,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -->
 
 
-## Socials
+## Let's Connnect 🤝💬
 
 <p align="left">
           <a href="https://www.github.com/blackdreamer15" target="_blank" rel="noreferrer">
@@ -92,13 +100,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<!--
 
+<!--
 ## Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/blackdreamer15">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdreamer15&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdreamer15&stroke=00AEFF&background=050F2C&ring=00AEFF&fire=ef4444&currStreakNum=ffffff&currStreakLabel=00AEFF&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd&hide_border=true" />
 </a>
 -->

@@ -8,14 +8,14 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdqODhud3F1dnVxYzJ5ejcwcjVycnR1M3F6OGlsdjF6aDF1Y3lrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8gwSEEwD57JRhGZAx/giphy-downsized-large.gif" width="auto" height="280px"/>
 
 * 🌍  I'm based in Ghana🇬🇭
-* 🗣️  I am a polyglot (🇫🇷/🇬🇧/🇪🇸)
+* 🗣️  I am a polyglot (🇫🇷 / 🇬🇧 / 🇪🇸)
 * ✉️  You can contact me at [bakijessy@gmail.com](mailto:bakijessy@gmail.com)
 * 🤝  I’m looking to collaborate on **Open Source Projects**
 * 🧠  I'm learning as much as I can.
 * ⚡  Lest I forget to add that:
-  * I tickle ivories🎹
-  * I love to watch anime and read manga🎌🏯
-  * I am an art🎨, culture🌍🎭 and philosophy🤔📚 enthusiast
+     * I tickle ivories 🎹 and I am an avid reader📚
+     * I love to watch anime and read manga🎌🏯
+     * I am an art🎨, culture🌍🎭 and philosophy🤔📚 enthusiast
 <!--
 * 🖥️  See my portfolio at [......](http://.....)
 * 🚀  I'm currently working on [...](http://........)
@@ -32,10 +32,10 @@
 
 <h2> Languages and Tools <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<!--
 <p align="left">
           <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />  </a>      
           <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />  </a>
+<!--
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> </a>
           <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"  width="36" height="36" alt="Python" /> </a>
           --

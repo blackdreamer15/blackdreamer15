@@ -16,6 +16,7 @@
      * I tickle ivories 🎹 and I am an avid reader📚
      * I love to watch anime and read manga🎌🏯
      * I am an art🎨, culture🌍🎭 and philosophy🤔📚 enthusiast
+     * **Fun fact:** I love cooking🧑🏾‍🍳🥘
 <!--
 * 🖥️  See my portfolio at [......](http://.....)
 * 🚀  I'm currently working on [...](http://........)
